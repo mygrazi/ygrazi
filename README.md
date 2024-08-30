@@ -1,5 +1,5 @@
 meu nome e grazielle
-- Estou estudando na Alura
+- Estou estudando na githud
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
